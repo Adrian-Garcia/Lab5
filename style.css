@@ -1,0 +1,16 @@
+.bullet {
+	padding: 2%;
+	color: grey;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	list-style-type: none;
+	font-style: italic;
+	font-family: Helvetica;
+	margin-top: 1%; 
+}
+
+.check {
+	margin-top: 1%;
+	margin-right: 1%;
+}
